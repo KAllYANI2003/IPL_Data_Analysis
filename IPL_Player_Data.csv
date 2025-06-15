@@ -1,0 +1,51 @@
+Player_Name,Team,Country,Age,Role,Matches_Played,Runs_Scored,Batting_Average,Wickets_Taken,Economy_Rate,Price_Crores
+Virat Kohli,RCB,India,34,Batsman,237,7263,37.2,4,8.8,17.5
+Rohit Sharma,MI,India,36,Batsman,227,6211,30.3,15,7.9,16.25
+MS Dhoni,CSK,India,42,Wicket-keeper,250,5082,39.1,0,0,15
+Jasprit Bumrah,MI,India,29,Bowler,120,56,4.7,145,7.4,14
+Ravindra Jadeja,CSK,India,34,All-rounder,226,2692,26.8,152,7.6,13.5
+David Warner,DC,Australia,36,Batsman,176,6397,41.5,0,0,12.75
+Jos Buttler,RR,England,33,Wicket-keeper,91,3223,38.8,0,0,11.5
+Kagiso Rabada,PBKS,South Africa,28,Bowler,97,67,8.4,113,8.5,10.75
+Sunil Narine,KKR,West Indies,34,All-rounder,162,1062,13.8,163,6.7,9.8
+Kane Williamson,GT,New Zealand,32,Batsman,77,2101,36.2,0,0,9.25
+Rashid Khan,GT,Afghanistan,24,Bowler,103,352,15.3,129,6.3,9
+KL Rahul,LSG,India,31,Batsman,118,4164,47.9,0,0,11.5
+Faf du Plessis,RCB,South Africa,38,Batsman,126,3704,34.9,0,0,10
+Rishabh Pant,DC,India,25,Wicket-keeper,98,3137,34.5,0,0,11
+Bhuvneshwar Kumar,SRH,India,33,Bowler,159,65,7.2,170,7.3,8.5
+Hardik Pandya,MI,India,29,All-rounder,123,1963,29.3,57,8.9,15
+Glenn Maxwell,RCB,Australia,34,All-rounder,119,2679,28.2,27,8.4,11
+Shikhar Dhawan,PBKS,India,37,Batsman,217,6720,35.2,4,7.7,8.75
+Krunal Pandya,LSG,India,32,All-rounder,98,1326,25.5,61,7.4,8.25
+Shreyas Iyer,KKR,India,28,Batsman,101,2881,31.3,0,0,9.5
+Trent Boult,RR,New Zealand,33,Bowler,86,41,5.1,105,8.3,8
+Ambati Rayudu,CSK,India,37,Batsman,188,4190,29.1,0,0,7
+Yuzvendra Chahal,RR,India,33,Bowler,131,37,5.3,187,7.7,8.5
+Nicholas Pooran,LSG,West Indies,27,Wicket-keeper,57,1432,36.7,0,0,10.25
+Sanju Samson,RR,India,28,Wicket-keeper,141,3888,29.5,0,0,13
+Deepak Chahar,CSK,India,30,Bowler,71,79,8.8,72,7.8,7.5
+Andre Russell,KKR,West Indies,35,All-rounder,112,2262,29,96,9.1,12.5
+Mohammed Shami,GT,India,32,Bowler,93,52,6.5,121,8.6,7.8
+Jonny Bairstow,PBKS,England,33,Wicket-keeper,39,1291,42.4,0,0,9.5
+Axar Patel,DC,India,29,All-rounder,134,1419,20.9,112,7.5,7
+Mitchell Starc,KKR,Australia,33,Bowler,58,34,5.7,73,8.9,11.25
+Ruturaj Gaikwad,CSK,India,26,Batsman,52,1797,39.1,0,0,7.5
+Arshdeep Singh,PBKS,India,24,Bowler,49,12,4,59,8.5,8
+Sam Curran,PBKS,England,25,All-rounder,42,515,21.5,49,9.1,10.5
+Washington Sundar,SRH,India,23,All-rounder,51,318,16.7,34,7.3,6
+Avesh Khan,LSG,India,26,Bowler,46,6,2,55,8.9,7.5
+Quinton de Kock,LSG,South Africa,30,Wicket-keeper,92,2813,33.5,0,0,11
+Pat Cummins,SRH,Australia,30,Bowler,42,185,15.4,45,8.8,9
+Shubman Gill,GT,India,23,Batsman,74,2271,34.9,0,0,14.5
+Devon Conway,CSK,New Zealand,31,Batsman,23,924,46.2,0,0,6.5
+Umran Malik,SRH,India,23,Bowler,29,3,1.5,33,9.1,8
+Aiden Markram,SRH,South Africa,28,Batsman,33,795,36.1,0,0,3.5
+Rahul Tripathi,SRH,India,32,Batsman,93,2210,27.3,0,0,5.5
+Wanindu Hasaranga,RCB,Sri Lanka,26,All-rounder,26,72,9,36,8.1,8
+Mayank Agarwal,SRH,India,32,Batsman,113,2327,23.5,0,0,7
+Nitish Rana,KKR,India,29,Batsman,105,2594,28.5,8,8.4,6
+Rahul Chahar,PBKS,India,24,Bowler,69,44,6.3,72,7.7,7.5
+Ravichandran Ashwin,RR,India,36,All-rounder,191,638,12.3,171,7,4.5
+Marcus Stoinis,LSG,Australia,33,All-rounder,73,1366,26.8,34,9.7,5.5
+,,,,,,,,,,7.8
